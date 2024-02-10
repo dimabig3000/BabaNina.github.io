@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Blamber ID</title>
+</head>
+  <body>
+    <h1>Blamber ID</h1>
+<p>
+  <label for="name">Введите имя и фамилию</label>
+  <input type="text" id="name" placeholder="">
+</p>
+<p>
+  <label for="name">Введите свою почту</label>
+  <input type="text" id="name" placeholder="">
+</p>  
+</body>
+</html>
 
